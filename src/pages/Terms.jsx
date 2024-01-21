@@ -308,7 +308,7 @@ function Terms() {
                 rel="external nofollow noopener"
                 // target="_blank"
               >
-                http://[::1]/contacts
+                Contacts
               </a>
             </li>
           </ul>
