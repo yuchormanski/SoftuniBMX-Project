@@ -433,12 +433,11 @@ function PrivacyPolicy() {
               <p>
                 By visiting this page on our website:{" "}
                 <a
-                                 //href="http://localhost:5173/contacts"
-                href="https://extreme-bmx.vercel.app/contacts"
+                  href="http://localhost:5173/contacts"
                   rel="external nofollow noopener"
                   // target="_blank"
                 >
-                  Contacts
+                  http://localhost:5173/contacts
                 </a>
               </p>
             </li>
